@@ -15,8 +15,3 @@ class Animal:
 
     def get_age(self):
         return self.age
-
-if __name__ == "__main__":
-    a = Animal("Cat", 3)
-    print(a.get_name())
-    print(a.get_age())
