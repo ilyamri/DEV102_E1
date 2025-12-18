@@ -4,7 +4,7 @@ Simple Python Animal class.
 
 ## Example
 ```python
-from animal import Animal
+from Animal_class import Animal
 
 a = Animal("Cat", 2)
 print(a.get_name())
